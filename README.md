@@ -1,27 +1,13 @@
-Welcome to the Gomix BETA
-=========================
+# Browser Quest
+A HTML5/JavaScript massively multiplayer online role-playing game.
 
-Click `"Show"` in the header to see your app live. Updates to your code will instantly deploy and update live.
+In Browser Quest players can interact with each other using the in-game chat system or by working together to defeat enemies. There are achievements available to unlock as you play. Loot is dropped when you defeat the enemies, which can be picked up by any player.
 
-Gomix is a developer playground that lets you code a real web-app without the slow setup and deployment steps.
+![](https://cdn.hyperdev.com/d76dfe3f-23bc-4a7e-9629-f110d2ffa268%2FbrowserQuest.png)
 
-[About Gomix](https://gomix.com/about)
+### Credits
+Created by [Little Workshop](http://www.littleworkshop.fr):
+* Franck Lecollinet - [@whatthefranck](http://twitter.com/whatthefranck)
+* Guillaume Lecollinet - [@glecollinet](http://twitter.com/glecollinet)
 
-
-Your Project
-------------
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env`
-
-On the front-end,
-- edit `client.js`, `style.css` and `index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-
-Made by Fog Creek
------------------
-
-\ ゜o゜)ノ
+Updated to work with Socket.io by [Nenu Adrian](https://github.com/nenuadrian/BrowserQuest)
